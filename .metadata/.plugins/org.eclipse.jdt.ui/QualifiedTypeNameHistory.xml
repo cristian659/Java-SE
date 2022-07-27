@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="clearminds.cuentas.Cuenta"/>
+<fullyQualifiedTypeName name="com.cmc.repaso.entidades.Validacion"/>
+<fullyQualifiedTypeName name="com.cmc.repaso.entidades.Estudiante"/>
+<fullyQualifiedTypeName name="com.cmc.entidades.Producto"/>
+<fullyQualifiedTypeName name="com.cmc.directorio.entidades.AdminContactos"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="com.cmc.colecciones.AdminPersona"/>
+<fullyQualifiedTypeName name="com.cmc.entidades.Persona"/>
+<fullyQualifiedTypeName name="com.cmc.herencia.Perro"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+<fullyQualifiedTypeName name="java.beans.ConstructorProperties"/>
+<fullyQualifiedTypeName name="com.cmc.herencia.Persona"/>
+<fullyQualifiedTypeName name="com.cmc.entidades.Cliente"/>
+<fullyQualifiedTypeName name="com.cmc.mapas.AdminClientes"/>
+<fullyQualifiedTypeName name="com.cmc.test.TestContactos"/>
+<fullyQualifiedTypeName name="com.cmc.test.TestValidar"/>
+<fullyQualifiedTypeName name="com.cmc.estaticos.Util"/>
+<fullyQualifiedTypeName name="com.cmc.estaticos.Contador"/>
+<fullyQualifiedTypeName name="com.cmc.estaticos.DiaSemana"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.cmc.utils.Dados"/>
+<fullyQualifiedTypeName name="java.util.logging.LogManager"/>
+<fullyQualifiedTypeName name="com.cmc.log.Admin"/>
+<fullyQualifiedTypeName name="com.cmc.calificaciones.entidades.Estudiante"/>
+<fullyQualifiedTypeName name="com.cmc.capacitacion.archivos.ManejadorArchivos"/>
+<fullyQualifiedTypeName name="com.cmc.capacitacion.test.TestManejador"/>
+<fullyQualifiedTypeName name="com.cmc.capacitacion.entidades.Persona"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+<fullyQualifiedTypeName name="com.cmc.rest.servicios.ServicioPersonas"/>
+<fullyQualifiedTypeName name="com.clearminds.componentes.Celda"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.cmc.colecciones.DirectorioLista"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="com.cmc.colecciones.DirectorioMapa"/>
+<fullyQualifiedTypeName name="com.cmc.entidades.Contacto"/>
+<fullyQualifiedTypeName name="com.cmc.colecciones.DirectorioArreglo"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="com.cmc.evaluacion.cdv.entidades.Random"/>
+</qualifiedTypeNameHistroy>

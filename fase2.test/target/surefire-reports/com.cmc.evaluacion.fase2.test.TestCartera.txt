@@ -1,0 +1,29 @@
+-------------------------------------------------------------------------------
+Test set: com.cmc.evaluacion.fase2.test.TestCartera
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec <<< FAILURE!
+testAgregarDuplicado(com.cmc.evaluacion.fase2.test.TestCartera)  Time elapsed: 0.002 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<0> but was:<2>
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.failNotEquals(Assert.java:282)
+	at junit.framework.Assert.assertEquals(Assert.java:64)
+	at junit.framework.Assert.assertEquals(Assert.java:201)
+	at junit.framework.Assert.assertEquals(Assert.java:207)
+	at com.cmc.evaluacion.fase2.test.TestCartera.testAgregarDuplicado(TestCartera.java:34)
+
+testAgregarSimple(com.cmc.evaluacion.fase2.test.TestCartera)  Time elapsed: 0 sec  <<< FAILURE!
+junit.framework.AssertionFailedError
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at junit.framework.Assert.assertTrue(Assert.java:27)
+	at com.cmc.evaluacion.fase2.test.TestCartera.testAgregarSimple(TestCartera.java:16)
+
+testAgregarVarios(com.cmc.evaluacion.fase2.test.TestCartera)  Time elapsed: 0 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: expected:<0> but was:<3>
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.failNotEquals(Assert.java:282)
+	at junit.framework.Assert.assertEquals(Assert.java:64)
+	at junit.framework.Assert.assertEquals(Assert.java:201)
+	at junit.framework.Assert.assertEquals(Assert.java:207)
+	at com.cmc.evaluacion.fase2.test.TestCartera.testAgregarVarios(TestCartera.java:25)
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\servicios"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\entidades"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\servicioss"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\entidadesss"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\fase2.servicios\src\main\java\com\cmc\evaluacion\fase2\servicios\Adminprestamos.java"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\testrs"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\archivos\src\main\java\com\cmc\capacitacion\archivos\ManejadorArchivos.java"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\archivos\src\main\java\com\cmc\capacitacion\archivos\Persona.java"/>
+			<item value="C:\Users\velas\OneDrive\Documentos\curso clearminds\work-space\10_EjemploLogs\logs\app.log"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.cmc.evaluacion.cdv.test"/>
+			<item value="com.cmc.evaluacion.cdv.servicios"/>
+			<item value="com.cmc.evaluacion.cdv.entidades"/>
+			<item value="com.cmc.evaluacion.fase2.test"/>
+			<item value="com.cmc.evaluacion.fase2.servicios"/>
+			<item value="com.cmc.evaluacion.fase2.commons"/>
+			<item value="com.cmc.evaluacion.fase2.entidades"/>
+			<item value="com.cmc.rest.servicios"/>
+			<item value="com.cmc.rest.ws"/>
+			<item value="com.cmc.rest.test"/>
+			<item value="com.cmc.rest.commons"/>
+			<item value="com.cmc.rest.entidades"/>
+			<item value="com.cmc.entidad"/>
+			<item value="com.cmc.testrs"/>
+			<item value="com.cmc.capacitacion"/>
+		</list>
+		<list key="groupId">
+			<item value="com.cmc.evaluacion.cdv"/>
+			<item value="com.cmc.evaluacion"/>
+			<item value="com.cmc.rest"/>
+			<item value="com.cmc"/>
+			<item value="com.cmc.capacitacion"/>
+		</list>
+		<list key="artifactId">
+			<item value="test"/>
+			<item value="servicios"/>
+			<item value="entidades"/>
+			<item value="fase2.test"/>
+			<item value="fase2.servicios"/>
+			<item value="fase2.commons"/>
+			<item value="fase2.entidades"/>
+			<item value="ws"/>
+			<item value="commons"/>
+			<item value="entidad"/>
+			<item value="testrs"/>
+			<item value="excepciones"/>
+			<item value="archivos"/>
+			<item value="calificaciones.test"/>
+			<item value="calificaciones.servicios"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="1.0.0"/>
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1"/>
+		</list>
+	</section>
+</section>

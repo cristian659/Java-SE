@@ -1,0 +1,24 @@
+2021-09-10 10:17:05.121 [main] ERROR com.cmc.capacitacion.archivos.ManejadorArchivos - error al leer el arhcivo
+java.io.FileNotFoundException: C:\Users\velas\OneDrive\Documentos\ejemplo.txt (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_281]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_281]
+	at java.io.FileReader.<init>(Unknown Source) ~[?:1.8.0_281]
+	at com.cmc.capacitacion.archivos.ManejadorArchivos.leer(ManejadorArchivos.java:25) [classes/:?]
+	at com.cmc.capacitacion.test.TestManejador.main(TestManejador.java:15) [classes/:?]
+2021-09-10 10:17:05.140 [main] ERROR com.cmc.capacitacion.test.TestManejador - error al leer el arhcivo
+com.cmc.capacitacion.excepciones.ToxicaException: No existe el archivoC:\Users\velas\OneDrive\Documentos\ejemplo.txt
+	at com.cmc.capacitacion.archivos.ManejadorArchivos.leer(ManejadorArchivos.java:30) ~[classes/:?]
+	at com.cmc.capacitacion.test.TestManejador.main(TestManejador.java:15) [classes/:?]
+2021-09-10 10:18:03.318 [main] ERROR com.cmc.capacitacion.archivos.ManejadorArchivos - error al leer el arhcivo
+java.io.FileNotFoundException: C:\Users\velas\OneDrive\Documentos\ejemplo (El sistema no puede encontrar el archivo especificado)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.open(Unknown Source) ~[?:1.8.0_281]
+	at java.io.FileInputStream.<init>(Unknown Source) ~[?:1.8.0_281]
+	at java.io.FileReader.<init>(Unknown Source) ~[?:1.8.0_281]
+	at com.cmc.capacitacion.archivos.ManejadorArchivos.leer(ManejadorArchivos.java:25) [classes/:?]
+	at com.cmc.capacitacion.test.TestManejador.main(TestManejador.java:15) [classes/:?]
+2021-09-10 10:18:03.334 [main] ERROR com.cmc.capacitacion.test.TestManejador - error al leer el arhcivo
+com.cmc.capacitacion.excepciones.ToxicaException: No existe el archivoC:\Users\velas\OneDrive\Documentos\ejemplo
+	at com.cmc.capacitacion.archivos.ManejadorArchivos.leer(ManejadorArchivos.java:30) ~[classes/:?]
+	at com.cmc.capacitacion.test.TestManejador.main(TestManejador.java:15) [classes/:?]

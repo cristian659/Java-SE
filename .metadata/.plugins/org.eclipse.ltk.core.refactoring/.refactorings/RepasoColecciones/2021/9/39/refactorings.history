@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.cmc.entidades.Contactos&apos; to &apos;Contacto&apos;&#x0D;&#x0A;- Original project: &apos;RepasoColecciones&apos;&#x0D;&#x0A;- Original element: &apos;com.cmc.entidades.Contactos&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cmc.entidades.Contacto&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Contactos&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.cmc.entidades{Contactos.java[Contactos" matchStrategy="1" name="Contacto" qualified="false" references="true" similarDeclarations="false" stamp="1632513171409" textual="false" version="1.0"/>
+</session>
